@@ -76,9 +76,3 @@ This project helped strengthen understanding of:
 - Integrate a **movie API for dynamic content**
 
 ---
-
-## ⚠️ Disclaimer
-
-This project is created for **educational purposes only** and is not affiliated with or endorsed by Netflix.
-
----
